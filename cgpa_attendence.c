@@ -1,5 +1,5 @@
 /*
-MITHUN MENON
+-----MITHUN MENON-----
 simple menu based program to
 	1. CGPA
 	2. Attendence Threshold*/
@@ -103,4 +103,4 @@ CHOOSE OPTION TO CONTINUE:");
 	return 0;
 }
 
-/*MITHUN MENON*/
+/*-----MITHUN MENON-----*/
